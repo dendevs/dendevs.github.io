@@ -2,7 +2,7 @@
 
 *Centralise les infos utiles sur la programmation et autres*
 
-## Projet Code
+## [Projet Code](projet-code.html)
 
 *1 mini projet de découverte par semaine*
 
@@ -23,3 +23,7 @@ Chaque projet se trouve sur son dépot github.
 ## Livres
 
 *Résumé, notes, citation issut de diverse lecture*
+
+## [Notes](notes.html)
+
+*Recopie brute de diverse notes prise lors d'événements*
