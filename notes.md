@@ -8,7 +8,7 @@ permalink: notes.html
 <ul>
   {% for post in site.categories.notes %}
     <li>
-      <a href="{{ post.url }}">{{ post.excerpt }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
