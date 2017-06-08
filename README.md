@@ -16,3 +16,5 @@ Le serveur ne génère, par défaut que les pages passées ( date au format  201
 [Liste des themes jekyll sur github](https://pages.github.com/themes/)
 
 [Templating jekyll: Liquid](https://jekyllrb.com/docs/templates/)
+
+[Jekyll compose](https://github.com/jekyll/jekyll-compose)
