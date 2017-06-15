@@ -37,6 +37,12 @@ Une note explicative peut etre ajouter avec la dépense ainsi qu'un élément pe
 
 ![Use case ajout](/assets/moneycheck/mck-usecase-ajout.png "Ajout")
 
+## Technologies et outils
+
+[meteorjs](https://www.meteor.com/)
+
+[mongodb](https://docs.mongodb.com/manual/introduction/)
+
 ## RMQ
 
 !Attention à la confusion qu'induit le terme dépense. J'ajoute une dépense, j'ai une dépense en plus c'est donc un -.

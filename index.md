@@ -24,7 +24,7 @@ Chaque projet se trouve sur son dépot github.
 
 *Résumé, notes, citation issut de diverse lecture*
 
-## Voyages
+## [Voyages](voyages.html)
 
 *Infos et moyens à mettre en oeuvre pour l'organisation de voyages*
 
